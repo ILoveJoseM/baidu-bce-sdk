@@ -9,6 +9,10 @@ composer require "jose-chan/baidu-bce-sdk"
 php artisan vendor:publish
 ```
 
+在.env文件中增加以下配置
+> BAIDU_BCE_API_KEY=你的应用key\
+> BAIDU_BCE_API_SECRET=你的应用secret
+
 
 #### 使用
 
